@@ -13,3 +13,7 @@ Good public tech:
 * werkt gewoon: geen producten, maar diensten.
 
 CC-BY-NC TiltShift 2020
+
+zie ook:
+https://github.com/TiltShiftNL/gedragscode
+https://github.com/TiltShiftNL/design-principles
