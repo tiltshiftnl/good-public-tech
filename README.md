@@ -1,4 +1,4 @@
-TiltShift is een design bedrijf voor good public tech.
+TILTSHIFT is een design bedrijf voor good public tech.
 
 Good Public Tech
 ================
@@ -12,12 +12,12 @@ Good public tech:
 * is van ons samen: open proces, open resultaten;
 * werkt gewoon: geen producten, maar diensten.
 
-CC-BY-NC TiltShift 2020
+CC-BY-NC TILTSHIFT 2020
 
 ---
 
 zie ook:
 
-https://github.com/TiltShiftNL/gedragscode
+https://github.com/tiltshiftnl/gedragscode
 
-https://github.com/TiltShiftNL/design-principles
+https://github.com/tiltshiftnl/design-principles
