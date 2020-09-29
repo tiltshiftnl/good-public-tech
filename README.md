@@ -10,7 +10,8 @@ Good public tech:
 * zorgt voor echte verandering: forceert digitale transformatie;
 * beweegt mee: wordt levend en actueel gehouden;
 * is van ons samen: open proces, open resultaten;
-* werkt gewoon: geen producten, maar diensten.
+* werkt gewoon: geen producten, maar diensten;
+* is duurzaam: geen verspilling, geen rotzooi.
 
 CC-BY-NC TILTSHIFT 2020
 
