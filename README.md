@@ -1,4 +1,4 @@
-TILTSHIFT is een design bedrijf voor good public tech.
+TILTSHIFT verzorgt het uitvoerend leiderschap voor digitale projecten en transformatieprogramma’s, vanuit inhoudelijke expertise op het gebied van service design, software ontwikkeling en organisatieverandering.
 
 Good Public Tech
 ================
